@@ -1,4 +1,4 @@
-## 👋 Hi, I'm **S.K.B.M. Arachchi**
+## 👋 Hi, I'm **Kavishka**
 
 🎓 **IT Student**
 💻 **Software Developer** | 🔐 **Cyber Security Enthusiast** | ☁️ **Cloud Learner**
