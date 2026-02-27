@@ -1,7 +1,3 @@
-Sure! Here’s a **clean, modern GitHub README description** you can use for your profile. You can copy-paste this directly into `README.md` 👇
-
----
-
 ## 👋 Hi, I'm **S.K.B.M. Arachchi**
 
 🎓 **IT Student**
